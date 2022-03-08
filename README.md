@@ -1,7 +1,7 @@
-### Hi there 👋
+ Hi there 👋
 
 
-**dyasinaroglan/dyasinaroglan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 - 🔭 Şu anda Test Otomasyon Projeleri üzerinde çalışıyorum
 - 🌱 Şu anda Selenium,TestNG ve Cucumber öğreniyorum.
