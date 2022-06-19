@@ -2,7 +2,7 @@ Hi 👋 My name is Yasin Aroğlan. thanks for being here
 
 Software Development Engineer in Test (SDET) | QA Automation Engineer
 
-* 🌍  I'm based in İstanbul,Turkey
+* 🌍  I'm based in Istanbul,Turkey
 * ✉️  You can contact me at [yasinargln264@gmail.com](mailto:yasinargln264@gmail.com)
 * 🧠  I'm learning API - Postman and RestAssured
 * 🤝  I'm open to collaborating on interesting projects as a software Test Engineer
