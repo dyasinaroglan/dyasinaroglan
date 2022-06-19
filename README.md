@@ -19,6 +19,7 @@ src="https://img.shields.io/twitter/follow/yasinaroglan?logo=twitter&style=for-t
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<img src="https://global-uploads.webflow.com/6097e0eca1e875de53031ff6/626cf935fadae34a014cece0_untitled-1_101.png" width="38" height="38" loading="lazy" alt="" class="technology-image">
 </p>
 
 
