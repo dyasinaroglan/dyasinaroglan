@@ -20,11 +20,13 @@ src="https://img.shields.io/twitter/follow/yasinaroglan?logo=twitter&style=for-t
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <img src="https://global-uploads.webflow.com/6097e0eca1e875de53031ff6/626cf935fadae34a014cece0_untitled-1_101.png" width="38" height="38" loading="lazy" alt="" class="technology-image">
+<img alt="" class="cf ip iq" src="https://miro.medium.com/max/1400/1*cSRtTdPdMLpKjyKfQS7pqA.png" width="38" height="38" loading="lazy" role="presentation">
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/80c549990a0f513dcbaf3c9eab6a1a620df76088/logos/cucumber.svg" width="36" height="36">
 </p>
 
 
 
-<p align="left"> <a href="https://www.github.com/dyasinaroglan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/yasin-aroğlan-b5b552182/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@yasinargln264" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/yasinaroglan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/dyasinaroglan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/yasin-aroğlan-b5b552182/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@yasinargln264" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/yasinaroglan" target="_blank" rel="noreferrer"><img
 
 
 <b>My GitHub Stats</b>
