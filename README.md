@@ -1,4 +1,4 @@
-Hi 👋 My name is Yasin Aroğlan. thanks for being here
+Hi 👋 My name is Yasin Aroğlan. Thanks for being here
 
 Software Development Engineer in Test (SDET) | QA Automation Engineer
 
