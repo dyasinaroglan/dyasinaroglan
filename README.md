@@ -12,7 +12,7 @@ Software Development Engineer in Test (SDET) | QA Automation Engineer
 src="https://img.shields.io/twitter/follow/yasinaroglan?logo=twitter&style=for-the-badge&color=facc15&labelColor=ffffff"
 /></a>
 
-
+Skills
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -27,7 +27,7 @@ src="https://img.shields.io/twitter/follow/yasinaroglan?logo=twitter&style=for-t
 
 
 
-
+Social
 <p align="left"> <a href="https://www.github.com/dyasinaroglan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/yasin-aroğlan-b5b552182/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@yasinargln264" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> 
 <a href="https://www.twitter.com/yasinaroglan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
