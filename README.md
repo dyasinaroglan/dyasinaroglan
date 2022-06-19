@@ -18,10 +18,11 @@ src="https://img.shields.io/twitter/follow/yasinaroglan?logo=twitter&style=for-t
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/databases/mysql.svg" height="41" width="41">
 <img src="https://global-uploads.webflow.com/6097e0eca1e875de53031ff6/626cf935fadae34a014cece0_untitled-1_101.png" width="40" height="40" loading="lazy" alt="" class="technology-image">
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/80c549990a0f513dcbaf3c9eab6a1a620df76088/logos/cucumber.svg" width="36" height="36">
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/80c549990a0f513dcbaf3c9eab6a1a620df76088/logos/postman-icon.svg" width="36" height="36"> 
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/80c549990a0f513dcbaf3c9eab6a1a620df76088/logos/postman-icon.svg" width="36" height="36">
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/80c549990a0f513dcbaf3c9eab6a1a620df76088/logos/jenkins.svg" width="37" height="37">
 </p>
 
 
