@@ -23,6 +23,8 @@ Skills
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/80c549990a0f513dcbaf3c9eab6a1a620df76088/logos/cucumber.svg" width="36" height="36">
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/80c549990a0f513dcbaf3c9eab6a1a620df76088/logos/postman-icon.svg" width="36" height="36">
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/80c549990a0f513dcbaf3c9eab6a1a620df76088/logos/jenkins.svg" width="37" height="37">
+<img class="lazy" src="https://banner2.cleanpng.com/20180816/eej/kisspng-testng-logo-software-testing-software-framework-co-udemy-1-free-testng-all-in-one-crash-cours-5b75214eece027.0299854815344028949703.jpg" width="36" height="36">
+<img itemprop="image" class="avatar flex-shrink-0 mb-3 mr-3 mb-md-0 mr-md-4" src="https://avatars.githubusercontent.com/u/19369327?s=200&amp;v=4" width="36" height="36" alt="@rest-assured">
 </p>
 
 
