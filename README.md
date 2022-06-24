@@ -2,11 +2,11 @@ Hi 👋 My name is Yasin Aroğlan. Thanks for being here
 
 Software Development Engineer in Test (SDET) | QA Automation Engineer
 
-* 🌍  I'm based in Istanbul,Turkey
-* ✉️  You can contact me at [yasinargln264@gmail.com](mailto:yasinargln264@gmail.com)
-* 🧠  I'm learning API - Postman and RestAssured
-* 🤝  I'm open to collaborating on interesting projects as a software Test Engineer
-* ⚡  Reading is my sensitive spot.
+ 🌍  I'm based in Istanbul,Turkey
+ ✉️  You can contact me at [yasinargln264@gmail.com](mailto:yasinargln264@gmail.com)
+ 🧠  I'm learning API - Postman and RestAssured
+ 🤝  I'm open to collaborating on interesting projects as a software Test Engineer
+ ⚡  Reading is my sensitive spot.
 
 <a href="https://www.twitter.com/yasinaroglan" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/yasinaroglan?logo=twitter&style=for-the-badge&color=facc15&labelColor=ffffff"
