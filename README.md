@@ -12,9 +12,6 @@ Software Development Engineer in Test (SDET) | QA Automation Engineer
  
  ⚡  Reading is my sensitive spot.
 
-<a href="https://www.twitter.com/yasinaroglan" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/yasinaroglan?logo=twitter&style=for-the-badge&color=facc15&labelColor=ffffff"
-/></a>
 
 Skills
 <p align="left">
