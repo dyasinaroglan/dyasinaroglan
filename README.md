@@ -1,45 +1,65 @@
-Hi 👋 My name is Yasin Aroğlan. Thanks for being here
+<div align="center">
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Yasin%20Aroğlan&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Development%20Engineer%20in%20Test%20%7C%20QA%20Automation&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=Test+Automation+Engineer+%F0%9F%A7%AA;Selenium+%7C+Cucumber+%7C+RestAssured;API+Testing+with+Postman;Clean+Code+%7C+CI%2FCD+%7C+Jenkins;Always+learning+%F0%9F%93%9A" alt="Typing SVG" />
+<br/>
+<!-- Profile Views & Followers -->
+Show Image
+Show Image
+</div>
 
-Software Development Engineer in Test (SDET) | QA Automation Engineer
+👨‍💻 About Me
+yamlname: Yasin Aroğlan
+role: Software Development Engineer in Test (SDET) | QA Automation Engineer
+location: Istanbul, Turkey 🇹🇷
+company: Testinium
+email: yasinargln264@gmail.com
 
- 🌍  I'm based in Istanbul,Turkey
- 
- ✉️  You can contact me at [yasinargln264@gmail.com](mailto:yasinargln264@gmail.com)
- 
- 🧠  I'm learning API - Postman and RestAssured
- 
- 🤝  I'm open to collaborating on interesting projects as a software Test Engineer
- 
- ⚡  Reading is my sensitive spot.
+currently_learning:
+  - API Testing with Postman & RestAssured
+  - Advanced Java for Test Automation
 
+open_to: Collaborating on interesting QA / Test Automation projects
 
-Skills
-<p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/databases/mysql.svg" height="41" width="41">
-<img src="https://global-uploads.webflow.com/6097e0eca1e875de53031ff6/626cf935fadae34a014cece0_untitled-1_101.png" width="40" height="40" loading="lazy" alt="" class="technology-image">
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/80c549990a0f513dcbaf3c9eab6a1a620df76088/logos/cucumber.svg" width="36" height="36">
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/80c549990a0f513dcbaf3c9eab6a1a620df76088/logos/postman-icon.svg" width="36" height="36">
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/80c549990a0f513dcbaf3c9eab6a1a620df76088/logos/jenkins.svg" width="37" height="37">
-<img class="lazy" src="https://banner2.cleanpng.com/20180816/eej/kisspng-testng-logo-software-testing-software-framework-co-udemy-1-free-testng-all-in-one-crash-cours-5b75214eece027.0299854815344028949703.jpg" width="36" height="36">
-<img itemprop="image" class="avatar flex-shrink-0 mb-3 mr-3 mb-md-0 mr-md-4" src="https://avatars.githubusercontent.com/u/19369327?s=200&amp;v=4" width="36" height="36" alt="@rest-assured">
-</p>
+fun_fact: "Reading is my sensitive spot 📚"
 
+🛠️ Tech Stack & Skills
+🔤 Languages
+Show Image
+Show Image
+Show Image
+Show Image
+🧪 Test Automation & QA Tools
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+⚙️ DevOps & Tools
+Show Image
+Show Image
+Show Image
+Show Image
 
+📊 GitHub Stats
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dyasinaroglan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dyasinaroglan&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+<div align="center">
+Show Image
+</div>
 
-Social
-<p align="left"> <a href="https://www.github.com/dyasinaroglan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/yasin-aroğlan-b5b552182/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@yasinargln264" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> 
-</p>
+🤝 Connect With Me
+<div align="center">
+Show Image
+Show Image
+Show Image
+Show Image
+</div>
 
-
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/dyasinaroglan"><img src="https://github-readme-stats.vercel.app/api?username=dyasinaroglan&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=000000&icon_color=facc15&bg_color=ffffff&hide_border=true&show_icons=true" alt="dyasinaroglan's GitHub stats" /></a>
-
-<a href="http://www.github.com/dyasinaroglan"><img src="https://activity-graph.herokuapp.com/graph?username=dyasinaroglan&bg_color=ffffff&color=000000&line=facc15&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/dyasinaroglan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dyasinaroglan&langs_count=10&title_color=facc15&text_color=000000&icon_color=facc15&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
+</div>
