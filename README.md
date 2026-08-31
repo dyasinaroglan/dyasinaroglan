@@ -18,7 +18,6 @@
 - 🌍 Based in **Istanbul, Turkey**
 - 🏢 Working at **BHL Turkey — HesapKurdu**
 - 📧 **yasinargln264@gmail.com**
-- 📚 Currently learning **Playwright & Karate Framework**
 - 🤝 Open to collaborating on interesting **QA / Test Automation** projects
 - ⚡ Fun fact: **Reading is my sensitive spot**
 
